@@ -1,10 +1,15 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
+- course: Academic Study for Associate of Science and Art
+  institute: Southwestern Illinois College
+  dates: 2018 - 2019
   logo: uob.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
+- course: Launchcode Member
+  institute: Launchcode
+  dates: 2018 - 2019
+  logo: fellowship.svg
+  
+  - course: BS Computer Game Design
+  institute: George Mason University
+  dates: 2020 - 2024
   logo: fellowship.svg
   
